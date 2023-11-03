@@ -1,3 +1,6 @@
+Meu primeiro codigo em Typescript.
+
+
 [ ] Implementar os métodos de depósito (deposit) e saque (withdraw) na classe DioAccount
 
 Os valores dos saldos devem ser alterados, de acordo com o valor informado para depósito
